@@ -68,4 +68,4 @@ The project is deployed using Vercel. Any changes pushed to the main branch are 
 
 ## Contact
 
-For any questions or feedback, please contact [Asmit13](https://github.com/Asmit13). 
+For any questions or feedback, please contact [Abhinav Sharma](https://github.com/Abhinavsharma2310). 
